@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background: #81c784;
+    background: #4FAD3C;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -35,7 +35,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #81c784;
+    color: #4FAD3C;
     text-decoration: underline;
 }
 
@@ -49,7 +49,7 @@ nav a:hover {
 }
 
 h2 {
-    color: #81c784;
+    color: #4FAD3C;
 }
 
 form {
@@ -70,14 +70,14 @@ form input, form textarea, form button {
 }
 
 form button {
-    background: #81c784;
+    background: #4FAD3C;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background: #66bb6a;
+    background: #4FAD3C;
 }
 
 footer {
@@ -100,5 +100,5 @@ footer {
 }
 
 .cta-button:hover {
-    background: #66bb6a;
+    background: #4FAD3C;
 }
